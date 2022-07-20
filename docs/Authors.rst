@@ -128,6 +128,7 @@ Paul Fenwick            pjf
 PeridexisErrant         PeridexisErrant
 Petr Mrázek             peterix
 Pfhreak                 Pfhreak
+Philip Walker           WoosterUK               Wooster
 Pierre Lulé             plule
 Pierre-David Bélanger   pierredavidbelanger
 potato
